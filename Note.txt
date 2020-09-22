@@ -1,0 +1,12 @@
+Note:
+Program
+
+Academic Award
+1st Honor 75% 
+2nd Honor 50%
+3rd Honor 25%
+
+Siblings Discount
+1st 5%
+2nd 10%
+3rd 15%
